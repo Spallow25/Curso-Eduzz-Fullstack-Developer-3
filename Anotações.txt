@@ -1,0 +1,3 @@
+Curso de Fullstack Developer
+
+Atentar-se ao Git e GitHub. Dominar essas ferramentas.
